@@ -1,3 +1,5 @@
 # hello-world
+Pierwsze repozytorium
 Witam
-Lubie placki
+
+Lubie motocykle
