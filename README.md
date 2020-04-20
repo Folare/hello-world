@@ -1,3 +1,4 @@
 # hello-world
 Pierwsze repozytorium
-Cześć
+Witam
+Lubie motocykle :D
