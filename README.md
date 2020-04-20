@@ -1,2 +1,3 @@
 # hello-world
-Pierwsze repozytorium
+Witam
+Lubie motocykle, szczególnie te czerwone - jak wiadomo najszybsze :D
