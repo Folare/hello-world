@@ -1,4 +1,5 @@
 # hello-world
 Pierwsze repozytorium
-Witam
+Dobry wieczór
 Lubie motocykle :D
+Spokojnego wieczoru.
